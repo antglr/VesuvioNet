@@ -12,7 +12,7 @@ VesuvioNet è un'applicazione pensata per situazioni di emergenza, come i terrem
 ## Come usare VesuvioNet
 
 ### **1. Controllare gli aggiornamenti**
-- Puoi premere il pulsante "Run Script" per eseguire un controllo degli aggiornamenti tramite L'Istituto Nazionale di Fisica e Vulcanologia (se disponibile).
+- Puoi premere il pulsante "Run Script" per eseguire un controllo degli aggiornamenti tramite L'Istituto Nazionale di Geofisica e Vulcanologia (se disponibile).
 
 ### **2. Inviare una richiesta**
 - Inserisci il tuo nome utente e la tua richiesta nella sezione "Requests".
